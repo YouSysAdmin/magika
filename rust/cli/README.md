@@ -76,9 +76,9 @@ bib/references.bib: BibTeX (text)
 c/code.c: C source (code)
 css/code.css: CSS source (code)
 csv/magika_test.csv: CSV document (code)
+diff/weather-station.patch: Diff file (text)
 dockerfile/Dockerfile: Dockerfile (code)
 docx/doc.docx: Microsoft Word 2007+ document (document)
-docx/magika_test.docx: Microsoft Word 2007+ document (document)
 ```
 
 ```shell
